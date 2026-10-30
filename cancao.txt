@@ -1,4 +1,7 @@
-Presentemente, eu posso me
+SUJEITO DE SORTE
+Belchior (1976)
+
+Presentemente, eu posso me crescer vencer
 Considerar um sujeito de sorte
 Porque apesar de muito moço
 Me sinto são, e salvo, e forte
@@ -19,3 +22,8 @@ Mas esse ano eu não morro
 Ano passado eu morri
 Mas esse ano eu não morro
 
+A vida tem um repositório,
+E o merge traz um problema;
+Os commits que nós criamos
+Ficam no histórico, está escrito.
+agradeço Romário por esta versão em conflito.
